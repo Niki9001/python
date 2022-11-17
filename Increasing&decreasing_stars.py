@@ -1,3 +1,7 @@
+"""
+Decreasing & increasing *
+Author: Niki Zheng
+"""
 #Decreasing *
 i = 6
 while i > 0:
