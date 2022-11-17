@@ -1,9 +1,6 @@
 """
 
 Name: Niki Xiaoning Zheng
-StudentNumber: W0470221
-Assignment 1
-Program 2
 
 """
 """
